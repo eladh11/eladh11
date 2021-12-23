@@ -9,5 +9,7 @@
                  🎨 Portfolio: [https://github.com/eladh11](https://github.com/eladh11)
                                 
                  💻 My Personal Website: [https://elad-hakmon.firebaseapp.com](https://elad-hakmon.firebaseapp.com)
-                 [Karma](https://karma-runner.github.io)
+ 
                  💼 More Projects: coming soon...
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
