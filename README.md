@@ -8,6 +8,6 @@
          
    🎨 Portfolio: [https://github.com/eladh11](https://github.com/eladh11)
                                 
-   💻 My Personal Website: [https://elad-hakmon.firebaseapp.com](https://elad-hakmon.firebaseapp.com)
+   💻 My Personal Website: [https://elad-hakmon-web.firebaseapp.com](https://elad-hakmon.firebaseapp.com)
  
                                            💼 More Projects: coming soon...
